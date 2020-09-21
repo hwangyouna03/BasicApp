@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasicApp</string>
+    <string name="clickme">나를 클릭해주세요 !</string>
+</resources>
